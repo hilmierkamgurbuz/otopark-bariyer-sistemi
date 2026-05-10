@@ -6,10 +6,6 @@ Mikrodenetleyici tabanlı otomasyon sistemi — sensör, motor sürücü ve LED 
 
 Bu proje, **PIC16F84A** mikrodenetleyicisi kullanılarak geliştirilmiş bir otopark bariyer otomasyon sistemidir. Sistem; giriş/çıkış sensörleri, DC motor ve LED göstergeleri aracılığıyla otoparkın araç kapasitesini takip eder ve bariyeri otomatik olarak kontrol eder.
 
-**Öğrenci:** Hilmi Erkam Gürbüz  
-**Ders:** Endüstriyel Elektronik Uygulamaları  
-**Öğretim Üyesi:** Gökhan Uçkan
-
 ## Sistem Özellikleri
 
 - Giriş ve çıkış sensörleriyle otomatik araç algılama
